@@ -200,16 +200,19 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
+    name: "GitHub",
     img: "/git.svg",
     link: "https://github.com/aakash10802",
   },
   {
     id: 2,
+    name: "Twitter",
     img: "/twit.svg",
     link: "https://x.com/AakashS63115683",
   },
   {
     id: 3,
+    name: "LinkedIn",
     img: "/link.svg",
     link: "https://www.linkedin.com/in/aakash-s-2209a1257/",
   },

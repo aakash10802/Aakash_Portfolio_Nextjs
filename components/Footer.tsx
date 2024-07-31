@@ -47,7 +47,7 @@ const Footer = () => {
             >
               <img
                 src={info.img}
-                alt={`${info.name} icon`}
+                alt="Social media icon"
                 width={20}
                 height={20}
               />
