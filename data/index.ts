@@ -1,3 +1,5 @@
+// need to update after compliting the balance project
+
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
@@ -49,7 +51,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a NextJs  SaaS Application",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -80,7 +82,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
+    title: "VChat - Video Conferencing App",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
@@ -107,33 +109,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Aakash was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Aakash's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    name: "Muhammed Ishan",
+    title: "Director of Deoxy.Dev",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Aakash was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Aakash's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and brand, Aakash, the best remote intern of batch no. THI-0724B51, is the ideal partner.",
+    name: "Sandip Gavit",
+    title: "Director of TechnoHacks EduTech",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Aakash was a game-changer for our project. His full-stack development expertise and exceptional problem-solving abilities significantly contributed to our achievements.",
+    name: "Pooja Ajith",
+    title: "Team Member",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working alongside Aakash truly transformed the trajectory of our project. His deep knowledge in full-stack development, combined with his outstanding problem-solving skills, brought a level of innovation and efficiency that we hadn't anticipated. Aakash's ability to tackle challenges head-on and provide practical, effective solutions was instrumental in our project's success.",
+    name: "Summayya NS",
+    title: "Team Member",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Teaming up with Aakash revolutionized our project's direction. His profound expertise in full-stack development, coupled with his remarkable problem-solving capabilities, introduced an unexpected level of innovation and efficiency. Aakash's skill in addressing challenges directly and delivering practical, effective solutions was crucial to the success of our project",
+    name: "Panchami",
+    title: "Mentor of 2021-2024 Major Project",
   },
 ];
 
@@ -158,15 +160,9 @@ export const companies = [
   },
   {
     id: 4,
-    name: "stream",
+    name: "Netlify",
     img: "/s.svg",
     nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
   },
 ];
 
@@ -180,8 +176,8 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "FullStack Developer Intern",
+    desc: "Doing Internship in Codsoft Software Development of web based platform using  MERN Stack ",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
@@ -205,13 +201,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/aakash10802",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://x.com/AakashS63115683",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/aakash-s-2209a1257/",
   },
 ];
