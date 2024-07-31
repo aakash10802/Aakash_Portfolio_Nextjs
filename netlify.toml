@@ -4,8 +4,7 @@
   functions = "netlify/functions"
 
 [context.production.environment]
- 
- SENTRY_AUTH_TOKEN=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
+  SENTRY_AUTH_TOKEN = "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"
   SENTRY_ORG = "as-webdevelopers"
   SENTRY_PROJECT = "portfolio"
 
